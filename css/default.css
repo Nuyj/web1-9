@@ -10,6 +10,7 @@
 body{
     background-image: url(../img/gear_01.PNG), url(../img/Edinburgh_700.JPG);
     background-repeat:   no-repeat, no-repeat;
+    background-size: 100px 100px, contain;
     background-color: lightgray;
     margin: 5px;
 }
